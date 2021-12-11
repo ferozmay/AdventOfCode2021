@@ -75,7 +75,7 @@ for line in lines:
                 value += "0"
 
     final.append(value)
-
+    print(dict(digits))
     digits.clear()
     positions.clear()
 
